@@ -4,7 +4,11 @@ h2
         font-family: Verdana, Arial, Helvetica, sans-sarjf;
         color: #333366;
         text-align: canter;
-        background-color: skyblue;
+       /*background-color: skyblue;*/  
+         background-image: url(https://img.freepik.com/premium-photo/abstract-light-yellow-background_146836-96.jpg);
+         background-size: 100%
+      
+            
       }
 h3
       {
@@ -12,5 +16,8 @@ h3
         font-family: Verdana, Arial, Helvetica, sans-sarjf;
         color: pink;
         text-align: left;
-        background-color: royalblue;
+       /*background-color: royalblue;*/
+        background-image: url( https://img.freepik.com/premium-photo/abstract-light-yellow-background_146836-96.jpg); 
+         background-size: 50%
+      
       {
