@@ -17,4 +17,9 @@ h3{
          background-size: 50%
       }
       
-               
+  h1 {
+    font-size: 20px;
+    font-family: Magnoliophyta;            
+    text-align: center;
+    background-color: #3A6BFD;
+   }             
